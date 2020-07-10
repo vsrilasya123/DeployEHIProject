@@ -1,0 +1,5 @@
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Models\bin\Debug\EvolentHealth.Models.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Models\bin\Debug\EvolentHealth.Models.pdb
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Models\obj\Debug\EvolentHealth.Models.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Models\obj\Debug\EvolentHealth.Models.pdb
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Models\obj\Debug\EvolentHealth.Models.csprojAssemblyReference.cache

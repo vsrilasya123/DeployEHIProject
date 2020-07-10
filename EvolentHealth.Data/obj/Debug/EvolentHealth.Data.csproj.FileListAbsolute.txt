@@ -1,0 +1,10 @@
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EvolentHealth.Data.dll.config
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EvolentHealth.Data.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EvolentHealth.Data.pdb
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EntityFramework.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EntityFramework.xml
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\obj\Debug\EvolentHealth.Data.csproj.CopyComplete
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\obj\Debug\EvolentHealth.Data.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.Data\obj\Debug\EvolentHealth.Data.pdb

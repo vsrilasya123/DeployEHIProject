@@ -1,0 +1,5 @@
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.WebApi\bin\Debug\EvolentHealth.WebApi.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.WebApi\bin\Debug\EvolentHealth.WebApi.pdb
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.WebApi\obj\Debug\EvolentHealth.WebApi.csprojAssemblyReference.cache
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.WebApi\obj\Debug\EvolentHealth.WebApi.dll
+C:\Users\srilasya\source\Cognologix\HealthDomainProject\EvolentHealth.WebApi\obj\Debug\EvolentHealth.WebApi.pdb
